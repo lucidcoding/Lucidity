@@ -36,8 +36,10 @@
     </style> -->
   </head>
   <body>
-    <div class="container header" >
+    <div class="container-fluid header" >
         <img src="Images/Lucidity.gif" alt="Lucidity Software"/>
+    </div>
+    <div class="container-fluid" >
     </div>
 <!--     <div class="links" >
         <a href="mailto:info@luciditysoftware.co.uk">info@luciditysoftware.co.uk</a>
