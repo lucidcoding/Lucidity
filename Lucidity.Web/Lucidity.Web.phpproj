@@ -20,12 +20,20 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Images\" />
+    <Folder Include="Scripts\" />
     <Folder Include="Styles\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\LucidCoding.gif" />
     <Content Include="Images\Lucidity.gif" />
     <Content Include="Images\Mcr1.jpg" />
     <Content Include="Images\Mcr2.jpg" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.9.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.map" />
     <Content Include="Styles\bootstrap-theme.css" />
     <Content Include="Styles\bootstrap-theme.css.map" />
     <Content Include="Styles\bootstrap-theme.min.css" />
