@@ -1,4 +1,19 @@
-﻿
+﻿body 
+{
+    background-color: #636263;
+}
+
+p
+{
+    color: white;
+}
+
+@media (min-width: 768px) {
+  .container-fluid {
+    width: 970px;
+    }
+} 
+
 header[role="banner"] {
   #logo-main {
     display: block;
@@ -6,6 +21,13 @@ header[role="banner"] {
   }
 }
 
+/*section 
+{
+    background-color: white;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; 
+}*/
 
 .navbar .navbar-nav {
   display: inline-block;
@@ -63,10 +85,26 @@ div.navbar-header
     border: 0px;
 }
 
+
+
+.navbar-default .navbar-nav > li > a, 
+.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:focus 
+{
+    color: #ddd;
+    background-color: #444444;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus 
 {
-    color: #555;
+    color: #ddd;
     background-color: #444444;
 }

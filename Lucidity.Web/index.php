@@ -1,54 +1,32 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1"> 
-    <title>Lucidity Software</title>
-    <link href="Styles/bootstrap.css" rel="stylesheet" type="text/css" />
-    <link href="Styles/site.css" rel="stylesheet" type="text/css" />
-    <script src="Scripts/jquery-1.9.1.js" type="text/javascript"></script>
-    <script src="Scripts/bootstrap.js" type="text/javascript"></script>
+    <?php include('headcommon.php'); ?>
+    <title>Lucidity Software | Home</title>
     
   </head>
     <body>
     
       
-      
-        <header role="banner">
-            <img id="logo-main" src="Images/Lucidity.gif" width="300" alt="Lucidity Software"/>
-            <!-- <nav id="navbar-primary" class="navbar" role="navigation"> -->
-            <nav id="navbar" class="navbar navbar-default" role="navigation" >
-                <div class="container-fluid">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                    
-      
-            
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-primary-collapse" aria-expanded="false" aria-controls="navbar">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="#">Please select:</a>
-                    </div>
-       
-                    <div class="collapse navbar-collapse" id="navbar-primary-collapse" ">
-                        <ul class="nav navbar-nav">
-                          <li class="active"><a href="#">Link</a></li>
-                          <li><a href="#">Link</a></li>
-                          <li><a href="#">Link</a></li>
-                          <li><a href="#">Link</a></li>
-                          <li><a href="#">Link</a></li>
-                        </ul>
-                    </div><!-- /.navbar-collapse -->
-                
-            
-            
-                </div><!-- /.container-fluid -->
-            </nav>
-        </header><!-- header role="banner" -->
+      <?php include('header.php'); ?>
 
+      <main role="main" class="container-fluid">
+        <article class="row">
+            <section class="col-sm-12 col-md-12 col-lg-12">
+                <h1>
+                    Bespoke software development services
+                </h1>
+                <hr/>
+                <p>
+                    Lucidity Software is the limited company of me, Paul T Davies. 
+                </p>
+                
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+            </section>
+        </article>
+      </main>
     </body>
   
 </html>
@@ -56,6 +34,6 @@
 
 <?php
 
-echo "Hello World!";
+//echo "Hello World!";
 
 ?>
