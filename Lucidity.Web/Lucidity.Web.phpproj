@@ -26,6 +26,11 @@
     <Folder Include="Styles\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\glyphicons_social_05_blogger.png" />
+    <Content Include="Images\glyphicons_social_17_linked_in.png" />
+    <Content Include="Images\glyphicons_social_30_facebook.png" />
+    <Content Include="Images\glyphicons_social_31_twitter.png" />
+    <Content Include="Images\glyphicons_social_38_skype.png" />
     <Content Include="Images\LucidCoding.gif" />
     <Content Include="Images\Lucidity.gif" />
     <Content Include="Images\Mcr1.jpg" />

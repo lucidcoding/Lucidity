@@ -108,3 +108,11 @@ div.navbar-header
     color: #ddd;
     background-color: #444444;
 }
+
+.contact-aside 
+{
+    min-height: 400px;
+    background-color: #444444;
+    /* border: 1px solid #ddd; */
+    /* background-color: #636263; */
+}
