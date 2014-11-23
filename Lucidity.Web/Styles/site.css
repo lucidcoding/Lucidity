@@ -109,10 +109,39 @@ div.navbar-header
     background-color: #444444;
 }
 
-.contact-aside 
+hr
+{
+    border-color: #FAEF2D;
+}
+
+aside
 {
     min-height: 400px;
     background-color: #444444;
     /* border: 1px solid #ddd; */
     /* background-color: #636263; */
+}
+
+aside h1
+{
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #ddd;
+}
+
+div.social-media-icons
+{
+    text-align: center;
+   
+}
+
+div.social-media-icons img
+{
+    /*display:inline-block;*/
+    width: 40px;
+    height: 40px;
+    
+    vertical-align: baseline;
 }

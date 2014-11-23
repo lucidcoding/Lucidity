@@ -27,14 +27,21 @@
                 </p>
             </section>
         </article>
-        <aside class="col-sm-12 col-md-3 col-lg-3 contact-aside">
-            <h1>Contact Me</h1>
-            <a href="http://lucidcoding.blogspot.com"><img src="Images/glyphicons_social_05_blogger.png" alt="blogger" /></a>
-            <a href="http://www.linkedin.com/company/lucidity-software"><img src="Images/glyphicons_social_17_linked_in.png" alt="blogger" /></a>
-            <a href="http://www.facebook.com/luciditysoftware"><img src="Images/glyphicons_social_30_facebook.png" alt="blogger" /></a>
-            <a href="#"><img src="Images/glyphicons_social_31_twitter.png" alt="blogger" /></a>
-            <span class="glyphicon icon-facebook"></span>
-            <span class="glyphicon icon-twitter"></span>
+        <aside class="col-sm-12 col-md-3 col-lg-3 container">
+            <h1>Connect</h1>
+            <div class="social-media-icons">
+                
+                    <a href="http://lucidcoding.blogspot.com"><img src="Images/webicon-blogger.svg" alt="Blogger"  /></a>
+                    <a href="http://www.linkedin.com/company/lucidity-software"><img src="Images/webicon-linkedin.svg" alt="Linked In"  /></a>
+                    <a href="http://plus.google.com"><img src="Images/webicon-googleplus.svg" alt="Google Plus" /></a>
+                    <a href="http://www.facebook.com/luciditysoftware"><img src="Images/webicon-facebook.svg" alt="Facebook"  /></a>
+                    <a href="http://www.twitter.com"><img src="Images/webicon-twitter.svg" alt="Twitter" /></a>
+                    <a href="http://www.stackoverflow.com"><img src="Images/webicon-stackoverflow.svg" alt="Stack Overflow"  /></a>
+                    <a href="http://www.github.com"><img src="Images/webicon-github.svg" alt="Github"  /></a>
+                    <a href="http://www.youtube.com"><img src="Images/webicon-youtube.svg" alt="YouTube"  /></a>
+              
+            </div>
+            <h1>Contact</h1>
             Email: info@luciditysoftware.co.uk
         </aside>
         </div>
