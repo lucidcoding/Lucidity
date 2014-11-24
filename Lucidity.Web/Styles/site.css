@@ -21,6 +21,15 @@ article li, section li
     font-size: medium;
 }
 
+article a,
+article a:hover,
+article a:focus,
+article a:visited
+{
+    color: White;
+    text-decoration: underline;
+}
+
 @media (min-width: 768px){
     article img.inset 
     {
@@ -43,7 +52,7 @@ article li, section li
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 970px) {
   .container-fluid {
     width: 970px;
     }
@@ -150,6 +159,7 @@ aside a:focus,
 aside a:visited
 {
     color: White;
+    text-decoration: underline;
 }
 
 aside p.email

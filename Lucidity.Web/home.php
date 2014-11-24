@@ -53,7 +53,22 @@
                         Delivery of fixed-fee, fully bespoke software packages
                     </li>
                 </ul>
-                
+                <p>
+                    My main expertise is in Microsoft based technologies such as .Net, C#, ASP.Net and ASP.Net MVC. I have extensive database skills in a variety of 
+                    platforms including Microsoft SQL Server, MySQL and NoSQL Databases such as MongoDB and RavenDB. I have considerable experience of Object/Relational Mappers 
+                    such as NHibernate and Entity Framework. I also have experience of other languages such as PHP, Ruby and also legacy languages such as VB6 and Classic ASP.
+                </p>
+                <p>
+                    I have worked in Agile environments so if this is how you work I can fit straight in. If you do not yet use an Agile methodology but would like some advice on 
+                    adopting one, I can also help with this. I also have experience in Test Driven Development and have helped mentor junior developers with this paradigm.
+                </p>
+                <p>
+                    And if you are using a cutting edge or obsolete technology that no one seems to know, or if you have systems developed in an in-house Domain Specific Language
+                    that was only know to one developer (who has since left), then I may be the one person who can make sense of it all.
+                </p>
+                <p>
+                    Please email me at <a href="mailto:info@luciditysoftware.co.uk">info@luciditysoftware.co.uk</a> to discuss how I can help you.
+                </p>
         </article>
         <?php include('aside.php'); ?>
         </div>
