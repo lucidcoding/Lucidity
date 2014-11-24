@@ -20,8 +20,8 @@
        
                     <div class="collapse navbar-collapse" id="navbar-primary-collapse" ">
                         <ul class="nav navbar-nav">
-                          <li class="active"><a href="#">Home</a></li>
-                          <li><a href="#">About</a></li>
+                          <li class="active"><a href="/software-developer-contractor-and-bespoke-software-solutions">Home</a></li>
+                          <li><a href="/about-me">About</a></li>
                           <li><a href="#">Services</a></li>
                           <li><a href="#">Skills</a></li>
                           <li><a href="#">Contact</a></li>

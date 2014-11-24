@@ -16,8 +16,10 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="aside.php" />
     <Compile Include="headcommon.php" />
     <Compile Include="header.php" />
+    <Compile Include="home.php" />
     <Compile Include="index.php" />
   </ItemGroup>
   <ItemGroup>
@@ -38,6 +40,7 @@
     <Content Include="Images\webicon-stackoverflow.svg" />
     <Content Include="Images\webicon-twitter.svg" />
     <Content Include="Images\webicon-youtube.svg" />
+    <Content Include=".htaccess" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1-vsdoc.js" />
