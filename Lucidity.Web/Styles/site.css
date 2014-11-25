@@ -6,7 +6,7 @@
 p
 {
     color: white;
-    font-size: medium;
+    font-size: 12pt;
 }
 
 article ul
@@ -36,6 +36,7 @@ article a:visited
         float: right;
         padding-left: 15px;
         padding-bottom: 15px;
+        display: none;
     }
 }
 
@@ -44,6 +45,7 @@ article a:visited
     {
         float: none;
         padding-bottom: 15px;
+        display: none;
     }
     
     article div.inset
@@ -127,6 +129,12 @@ h1
 {
     font-size: 20pt;
     color: white;
+}
+
+h2
+{
+    font-size: 16pt;
+    color: #FAEF2D;
 }
 
 hr

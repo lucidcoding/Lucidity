@@ -21,8 +21,21 @@
                     <div class="collapse navbar-collapse" id="navbar-primary-collapse" ">
                         <ul class="nav navbar-nav">
                           <li class="active"><a href="/software-developer-contractor-and-bespoke-software-solutions">Home</a></li>
-                          <li><a href="/about-me">About</a></li>
-                          <li><a href="#">Services</a></li>
+                          <li>
+                            <a href="/software-developer-contractor">
+                                Contractor Services
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/about-me"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                                Bespoke Software
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                              <li><a href="#">Contractor Developer</a></li>
+                              <li><a href="#">Consultationn</a></li>
+                              <li><a href="#">Bespoke Software Development</a></li>
+                            </ul>
+                          </li>
                           <li><a href="#">Skills</a></li>
                           <li><a href="#">Contact</a></li>
                         </ul>

@@ -19,11 +19,11 @@
                 <hr/>
                 
                 <div class="inset">
-                    <img src="Images/webicon-twitter.svg" alt="Twitter" width="200px" height="200px" class="inset" />
+                    <img src="" alt="Twitter" width="200px" height="200px" class="inset" />
                 </div>
                 
                 <p>
-                    Lucidity Software is the limited company Paul T Davies MSc(Dist). 
+                    Lucidity Software is the limited of company Paul T Davies MSc(Dist). 
                 </p>
                 
                 <p>
@@ -76,10 +76,3 @@
     </body>
   
 </html>
-
-
-<?php
-
-//echo "Hello World!";
-
-?>

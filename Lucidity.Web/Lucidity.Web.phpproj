@@ -17,10 +17,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="aside.php" />
+    <Compile Include="contractingdeveloper.php" />
     <Compile Include="headcommon.php" />
     <Compile Include="header.php" />
     <Compile Include="home.php" />
-    <Compile Include="index.php" />
+    <Compile Include="_index.php" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Images\" />
@@ -28,6 +29,7 @@
     <Folder Include="Styles\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="favicon.ico" />
     <Content Include="Images\LucidCoding.gif" />
     <Content Include="Images\Lucidity.gif" />
     <Content Include="Images\Mcr1.jpg" />
@@ -54,5 +56,6 @@
     <Content Include="Styles\bootstrap.css.map" />
     <Content Include="Styles\bootstrap.min.css" />
     <Content Include="Styles\site.css" />
+    <Content Include="web.config" />
   </ItemGroup>
 </Project>

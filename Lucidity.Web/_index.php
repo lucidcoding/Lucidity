@@ -19,10 +19,17 @@
     
 	if(strtolower($base_url) === "/software-developer-contractor-and-bespoke-software-solutions")
 	{
+        //echo "Something to see here";
 		require('home.php'); 
+		//require('C:\HostingSpaces\lucidity\luciditysoftware.co.uk\wwwroot\home.php'); 
+	}
+    else if (strtolower($base_url) === "/software-developer-contractor")
+	{
+		require('contractingdeveloper.php'); 
 	}
     else
     {
+        echo "Nothing to see here";
         //require('home.php'); 
     }
  
