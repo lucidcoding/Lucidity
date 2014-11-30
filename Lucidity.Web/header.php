@@ -27,17 +27,20 @@
                             </a>
                           </li>
                           <li>
-                            <a href="/about-me"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                            <a href="/bespoke-software-development">
+                                Bespoke Software
+                            </a>
+                            <!-- <a href="/about-me"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
                                 Bespoke Software
                             </a>
                             <ul class="dropdown-menu" role="menu">
                               <li><a href="#">Contractor Developer</a></li>
                               <li><a href="#">Consultationn</a></li>
                               <li><a href="#">Bespoke Software Development</a></li>
-                            </ul>
+                            </ul> -->
                           </li>
-                          <li><a href="#">Skills</a></li>
-                          <li><a href="#">Contact</a></li>
+                          <li><a href="/developer-skills">Skills</a></li>
+                          <li><a href="/contact">Contact</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 

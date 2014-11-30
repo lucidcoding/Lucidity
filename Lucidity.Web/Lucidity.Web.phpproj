@@ -17,10 +17,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="aside.php" />
+    <Compile Include="bespokesoftware.php" />
+    <Compile Include="contact.php" />
     <Compile Include="contractingdeveloper.php" />
     <Compile Include="headcommon.php" />
     <Compile Include="header.php" />
     <Compile Include="home.php" />
+    <Compile Include="skills.php" />
     <Compile Include="_index.php" />
   </ItemGroup>
   <ItemGroup>

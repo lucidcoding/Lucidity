@@ -189,3 +189,27 @@ aside div.social-media-icons img
     
     vertical-align: baseline;
 }
+
+table, th, td {
+   border: 1px solid #444444;
+}
+
+th, td 
+{
+    padding: 5px;
+}
+
+th 
+{
+    color: #FAEF2D;
+}
+
+td 
+{
+    color: White;
+}
+
+table
+{
+    width: 100%;
+}

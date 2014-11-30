@@ -60,8 +60,13 @@
                     Research & Proof of Concept
                 </h2>
                 <p>
-                    
+                    If there is a new technology that you believe would be benficial to your business, or if you are thinking of developing a new application but not
+                    sure if you want to commit the time of several developers to it, I can develop a prototype version to act as a proof of concept for it. Even if
+                    it is a new language, technology or methodology that is not currently part of my extensive repertoire, I can research it and apply it, to some
+                    extent, within just a few days. This is a service I have provided on many occasions in the past with excellent results.
                 </p>
+                <br/>
+                <br/>
         </article>
         <?php include('aside.php'); ?>
         </div>

@@ -1,4 +1,6 @@
 Options -MultiViews
 RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^ index.php [QSA,L]
+RewriteRule ^software-developer-contractor-and-bespoke-software-solutions$ /home.php [QSA,L]
+RewriteRule ^software-developer-contractor$ /contractingdeveloper.php [QSA,L]
+RewriteRule ^bespoke-software-development$ /bespokesoftware.php [QSA,L]
+
