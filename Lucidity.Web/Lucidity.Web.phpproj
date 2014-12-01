@@ -23,6 +23,7 @@
     <Compile Include="headcommon.php" />
     <Compile Include="header.php" />
     <Compile Include="home.php" />
+    <Compile Include="robots.txt" />
     <Compile Include="skills.php" />
     <Compile Include="_index.php" />
   </ItemGroup>
@@ -33,6 +34,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
+    <Content Include="googlee37a274bf4de9154.html" />
     <Content Include="Images\LucidCoding.gif" />
     <Content Include="Images\Lucidity.gif" />
     <Content Include="Images\Mcr1.jpg" />
@@ -52,6 +54,7 @@
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
+    <Content Include="sitemap.xml" />
     <Content Include="Styles\bootstrap-theme.css" />
     <Content Include="Styles\bootstrap-theme.css.map" />
     <Content Include="Styles\bootstrap-theme.min.css" />

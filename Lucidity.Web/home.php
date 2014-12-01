@@ -3,7 +3,7 @@
   <head>
     <?php include('headcommon.php'); ?>
     <title>Lucidity Software | Home</title>
-    
+    <link rel="canonical" href="http://www.luciditysoftware.co.uk/software-developer-contractor-and-bespoke-software-solutions" />
   </head>
     <body>
     
@@ -35,7 +35,7 @@
                 </p>
                 <ul>
                     <li>
-                        In-office contractor software development following your specifcations, application design and development methodoligies
+                        In-office contractor software development following your specifications, application design and development methodologies
                     </li>
                     <li>
                         Updates and modifications to existing legacy systems, including those using supposedly obsolete technologies

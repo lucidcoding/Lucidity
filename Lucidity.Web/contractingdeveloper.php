@@ -3,6 +3,7 @@
   <head>
     <?php include('headcommon.php'); ?>
     <title>Lucidity Software | Contractor Developer</title>
+    <link rel="canonical" href="http://www.luciditysoftware.co.uk/software-developer-contractor" />
   </head>
     <body>
     
@@ -27,7 +28,7 @@
                     Coding
                 </h2>
                 <p>
-                    If you already have a system specified, designed and being built to in-house standards and frameworks, and you need an experinced
+                    If you already have a system specified, designed and being built to in-house standards and frameworks, and you need an experienced
                     and front line coder with expertise in a variety of languages and technologies, I can fit in straight away with 
                     your existing practices. Whether you follow a more traditional waterfall based methodology, or if you are a cutting edge Agile house
                     using TDD and Pair Programming, I have experience of all types of environments and can hit the ground running.
@@ -54,13 +55,13 @@
                 </p>
                 <p>
                     I have a lot of experience in this area and I may be the person who can help. I can't promise I will have experience of the obsolete language,
-                    but I do have experience of quikly aquiring knowledge of obsolete and proprietory languages.
+                    but I do have extensive experience of quickly acquiring knowledge of obsolete and proprietary languages.
                 </p>
                 <h2>
                     Research & Proof of Concept
                 </h2>
                 <p>
-                    If there is a new technology that you believe would be benficial to your business, or if you are thinking of developing a new application but not
+                    If there is a new technology that you believe would be beneficial to your business, or if you are thinking of developing a new application but not
                     sure if you want to commit the time of several developers to it, I can develop a prototype version to act as a proof of concept for it. Even if
                     it is a new language, technology or methodology that is not currently part of my extensive repertoire, I can research it and apply it, to some
                     extent, within just a few days. This is a service I have provided on many occasions in the past with excellent results.

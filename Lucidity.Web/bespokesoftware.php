@@ -3,6 +3,7 @@
   <head>
     <?php include('headcommon.php'); ?>
     <title>Lucidity Software | Bespoke Software</title>
+    <link rel="canonical" href="http://www.luciditysoftware.co.uk/bespoke-software-development" />
   </head>
     <body>
     

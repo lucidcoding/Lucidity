@@ -3,6 +3,7 @@
   <head>
     <?php include('headcommon.php'); ?>
     <title>Lucidity Software | Skills & Technologies</title>
+    <link rel="canonical" href="http://www.luciditysoftware.co.uk/developer-skills" />
   </head>
     <body>
     
